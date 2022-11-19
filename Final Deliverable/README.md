@@ -13,8 +13,6 @@ For the Backend we have used Python Flask. We have designed the backend based on
 ## Performance:
 We have tested the App in both mobile and PC and it worked well. It takes around 1-2 seconds for the user to login and 5-8 seconds to load the news content. The app didn’t crash upon multiple request and it handled multiple requests effortlessly. We have implemented infinite scrolling mechanism which loads the data whenever the user scrolls the screen , this helps the user to save data and helps the app to load fast.
 
-## URLs for the site:
-- [Live website Link](http://159.122.183.93:31965)
 
 ## Team Members:
 - Team Leader - shakthivel M
