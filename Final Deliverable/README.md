@@ -1,5 +1,5 @@
 # Final Deliverables
-## Team ID:PNT2022TMID04859
+## Team ID:PNT2022TMID46709
 
 ## Introduction:
 NewsTracker is a fullstack web application which allows users to register along with their favourite topics, upon login the app displays the news based on the user’s interest. The news displayed in the app is based on the Newcatcher API and Cricbuzz API from Rapid API site.
@@ -17,7 +17,7 @@ We have tested the App in both mobile and PC and it worked well. It takes around
 - [Live website Link](http://159.122.183.93:31965)
 
 ## Team Members:
-- Team Leader - Ragavendra Vigneshwaran R 
-- Team Member 1 - Ranjani S M
-- Team Member 2 - Ranjitha K
-- Team Member 3 - SakthiKarthi Lingam M P
+- Team Leader - shakthivel M
+- Team Member 1 - Aiyappan S
+- Team Member 2 - Ajay Prasanna G S
+- Team Member 3 - Selvabharathi S
